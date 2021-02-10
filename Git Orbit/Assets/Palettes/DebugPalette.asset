@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faefb21facd90c14ea4d96e11eaa1387, type: 3}
+  m_Name: DebugPalette
+  m_EditorClassIdentifier: 
+  paletteId: DebugPalette
+  paletteImage: {fileID: 21300000, guid: e21d067b5d5e3624497c71245cc555fa, type: 3}
+  orbitColor: {r: 1, g: 0.60784316, b: 0, a: 0.2}
+  activeOrbitColor: {r: 1, g: 0.6096755, b: 0, a: 1}
+  notAvailableColor: {r: 0.51775247, g: 0.7075472, b: 0.130162, a: 1}
+  pauseMenuColor: {r: 0, g: 0.2, b: 0.11219511, a: 0.69803923}
+  gradient1Colors:
+  - {r: 0.031372547, g: 0.16078432, b: 0.10581373, a: 1}
+  - {r: 0.118147045, g: 0.5566038, b: 0.37059182, a: 1}
+  - {r: 0.11992704, g: 0.46226418, b: 0.31703022, a: 1}
+  gradient2Colors:
+  - {r: 0.62352943, g: 0.589194, b: 0, a: 1}
+  - {r: 0.692004, g: 0.70980394, b: 0.12941174, a: 1}
+  - {r: 0.8276214, g: 0.8509804, b: 0.4078431, a: 1}
